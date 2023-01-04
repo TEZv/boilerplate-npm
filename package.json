@@ -1,4 +1,5 @@
 {
+	"keywords": [ "freecodecamp", "resolved", "nodejs", "npm", "server" ],
 	"description": "freeCodeCamp project that does some Back-End `Server Things`",
 	"author": "Oksana Kolisnyk",
 	"name": "fcc-learn-npm-package-json",
