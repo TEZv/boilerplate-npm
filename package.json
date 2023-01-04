@@ -1,6 +1,6 @@
 {
-	"name": "Oksana",
-	"surname": "Kolisnyk",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Oksana Kolisnyk",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
